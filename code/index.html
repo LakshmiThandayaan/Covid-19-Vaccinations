@@ -1,0 +1,43 @@
+<!--This code uses the D3.js library for developing the data visualization.-->
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Covid-19 Vaccination Tracker</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v7.js"></script>  
+</head>
+
+<body>
+    <!--Header for the Dashboard-->
+    <div class="header">
+        <h1>Covid-19 Vaccinations</h1>
+    </div>
+
+    <!--Navigation bar for the Dashboard-->
+    <div class="navbar">
+        <a id = "overview" class = "nav_option selected">Overview</a>
+        <a id = "vaccine_distributed" class = "nav_option">Vaccination Program</a>
+        <a id = "vaccine_impact" class = "nav_option">Impact of Vaccinations</a>
+        <a id = "vaccine_impact" class = "nav_option">Data Sources</a>
+    </div>
+
+    <!--Selected option in the navigation bar-->
+    <div class = "selected_1" style = "display:none">Overview</div>
+
+    <!--Data visulazation chosen by user will be diplayed within this div element-->
+    <div id="dataviz"></div>
+
+    <!--Script files to call the rest of the code need for the dashboard-->  
+    <script src = data_storage.js></script> 
+    <script src = overview.js></script>
+    <script src = world_map.js></script> 
+    <script src = vacc_program.js></script> 
+    <script src = vacc_dist.js></script> 
+    <script src = vacc_impact.js></script> 
+    <script src = impact_graph.js></script> 
+    <script src = navigation.js></script> 
+    <script src = read_data.js></script>
+  
+</body>
