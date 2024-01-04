@@ -50,7 +50,7 @@ Users can choose to view the map for people who have received at least one dose 
 The legend displayed along with the map gives the link between the colors allocated to each country and the percentage of the population that has been vaccinated in that country. The figure below shows the legend for the map displaying the percentage of the population that has completed the primary vaccination series.
 
 <p align="center">
-  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/4372cef7-83af-45d4-849b-45ee639f4e75" width=27% height=27%>
+  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/4372cef7-83af-45d4-849b-45ee639f4e75" width=25% height=25%>
 </p>
 
 The legend given along with the map is interactive. When users place their mouse over any box in the map, the countries corresponding to that category in the map is displayed. The figure below shows the map highlighting all the countries where the percentage of population that has received a booster dose is less than 10, when the mouse is over the red box in the legend.
@@ -107,24 +107,24 @@ When the ’Impact of Vaccinations’ option in the navigation bar is clicked, t
 A bar chart displaying the weekly number of confirmed cases of Covid-19 in the world is displayed. The bars in the chart are colored based on when the percentage of the population received at least one dose of the Covid-19 vaccine. If the user places the mouse on any of the bars in graph, the location, date, number of Covid-19 cases or deaths and percentage of population vaccinated at that point of time will be displayed in a pop-up box. This can be seen in the figure below.
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/82f8f5cb-bbc0-4bda-b0ba-6ef052345119">
 </p>
 
 Users can choose to see the bar graph for weekly Covid-19 cases and deaths with colors for the bars based on percentage of the population that has received at least one dose of the vaccination, percentage of the population that has completed the initial vaccination protocol and percentage of the population that has received a booster dose using a drop down menu right next to the bar graph. The figure below shows this drop down menu.
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/3c9cb1ca-68f1-446b-bf6b-8b461ba0a635" width=25% height=25%>
 </p>
 
 Users can also choose to see the bar graph for different countries, continents and income categories using another drop down menu right next to the bar graph. The figure below shows this drop down menu.
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/2243cc13-1b11-4064-be1f-2191a2c29c99" width=25% height=25%>
 </p>
 
 The legend for the bar chart is also given right next to the chart. The figure shows the legend for the bar chart.
 <p align="center">
-  <img src="">
+  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/003009aa-f6fd-47f6-a9b3-f861cb3a5ea7" width=25% height=25%>
 </p>
 
 ### Data Sources
