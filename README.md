@@ -32,7 +32,7 @@ Users can navigate the dashboard using the navigation bar. It consist of the cli
 As default when the dashboard is opened the ’Overview’ option is activated and will display a choropleth map of the world showing the percentage of people who has completed the initial vaccination protocol in each country will be displayed. This can be seen in the figure below.
 
 <p align="center">
-  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/7b826ad9-6e1d-4f8a-991e-0f53d3a1fe7d">
+  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/7b826ad9-6e1d-4f8a-991e-0f53d3a1fe7d" width=75% height=75%>
 </p>
 
 When users have their mouse over any country in the map, the country name, absolute number of people vaccinated in the country and percentage of people vaccinated in the country will be displayed in a small pop-up box. The figure below shows the data displayed for United Kingdom.
@@ -75,7 +75,7 @@ When the ’Vaccination Program’ option in the navigation bar is clicked, the 
 A line graph displaying the daily number of Covid-19 vaccination doses administered in the world is displayed. If the user places the mouse at any point inside the graph, the date and the number of vaccinations administered that day is displayed in a pop-up box. This can be seen in the figure below.
 
 <p align="center">
-  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/246436db-15ea-4ad2-afa8-463f4f9ef827">
+  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/e890558e-6001-4bfd-b419-fbf3fbaf9419">
 </p>
 
 Users can choose to see the graph for Daily Covid-19 vaccinations administered, Cumulative vaccinations administered, Daily number of people receiving a first Covid-19 vaccination dose, Total number of people who received at least one dose of vaccination, Total number of people who finished the initial vaccination protocol and Total Covid-19 boosters administered using a drop down menu right next to the graph. The figure below shows this drop down menu.
