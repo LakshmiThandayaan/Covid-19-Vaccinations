@@ -84,9 +84,13 @@ Users can choose to see the graph for Daily Covid-19 vaccinations administered, 
   <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/cc6f19c0-cece-4dde-8587-3789079997e4">
 </p>
 
+Users can choose to compare the vaccination distribution in different locations from the list of locations right next to the graph. The figure below shows the list of locations.
+
 <p align="center">
   <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/8b8487d6-910d-4751-9494-3f6161253ab4)">
 </p>
+
+The figure below shows the graph when the locations Asia, Europe and Africa are chosen.
 
 <p align="center">
   <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/039a9d02-1f05-4a09-ab51-601aee073379">
