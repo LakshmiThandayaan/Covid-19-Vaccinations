@@ -50,7 +50,7 @@ Users can choose to view the map for people who have received at least one dose 
 The legend displayed along with the map gives the link between the colors allocated to each country and the percentage of the population that has been vaccinated in that country. The figure below shows the legend for the map displaying the percentage of the population that has completed the primary vaccination series.
 
 <p align="center">
-  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/4372cef7-83af-45d4-849b-45ee639f4e75">
+  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/4372cef7-83af-45d4-849b-45ee639f4e75" width=27% height=27%>
 </p>
 
 The legend given along with the map is interactive. When users place their mouse over any box in the map, the countries corresponding to that category in the map is displayed. The figure below shows the map highlighting all the countries where the percentage of population that has received a booster dose is less than 10, when the mouse is over the red box in the legend.
@@ -62,7 +62,7 @@ The legend given along with the map is interactive. When users place their mouse
 The maps can also be zoomed in and out using the scroll options in the mouse. Zooming in can also be done by doubling clicking on the portion of the map you want to zoom into. Users can also pan the map by clicking and dragging in a specific direction. This allows more mobility within the map, hence making it easier for users to investigate and analyze smaller countries in the map. The figure below shows the map zoomed into United Kingdom.
 
 <p align="center">
-  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/c667b2fa-9eb4-44cc-8ae3-c7cc16303270">
+  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/c667b2fa-9eb4-44cc-8ae3-c7cc16303270" width=50% height=50%>
 </p>
 
 ### Vaccination Program
