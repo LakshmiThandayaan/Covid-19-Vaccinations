@@ -1,6 +1,6 @@
 # Covid-19 Vaccination Dashboard
 
-I have developed this dashboard of interactive visualizations to help analyze the impact the vaccinations have had
+I have developed this dashboard of interactive visualizations using the d3 library of JavaScript to help analyze the impact the vaccinations have had
 on the spread of the virus and the global disparity in vaccine distribution.
 
 ## Data Visualizations
