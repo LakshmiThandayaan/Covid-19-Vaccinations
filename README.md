@@ -17,10 +17,67 @@ doses administered. Users also have the option to compare the vaccination progra
 
 The dashboard has been designed in the following manner:
 
-![dashboard](https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/16c018e4-fb27-42e3-8696-9b2d5cc63ae9)
+<figure align="center">
+  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/16c018e4-fb27-42e3-8696-9b2d5cc63ae9" >
+</figure>
+
 
 Users can navigate the dashboard using the navigation bar. It consist of the clickable options ’Overview’ and ’Vaccination Program’.
 
-![navigation_bar](https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/d435cec0-a891-4ae3-b38b-6573f48318dc)
+<p align="center">
+  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/d435cec0-a891-4ae3-b38b-6573f48318dc">
+</p>
+
+### Overview
+As default when the dashboard is opened the ’Overview’ option is activated and will display a choropleth map of the world showing the percentage of people who has completed the initial vaccination protocol in each country will be displayed. This can be seen in the figure below.
+
+<p align="center">
+  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/7b826ad9-6e1d-4f8a-991e-0f53d3a1fe7d">
+</p>
+
+When users have their mouse over any country in the map, the country name, absolute number of people vaccinated in the country and percentage of people vaccinated in the country will be displayed in a small pop-up box. The figure below shows the data displayed for United Kingdom.
+
+<p align="center">
+  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/856fdc72-7259-4eac-8444-b19ed9dce52a">
+</p>
+
+Users can choose to view the map for people who have received at least one dose of the vaccination, people who have completed the initial vaccination protocol and people who have taken the booster dose using the drop down menu in the ’Overview’ option. The figure below shows this drop down menu.
+
+<p align="center">
+  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/c48cc9e8-c309-4130-b4f4-1ab6e74b2d46">
+</p>
+
+The legend displayed along with the map gives the link between the colors allocated to each country and the percentage of the population that has been vaccinated in that country. The figure below shows the legend for the map displaying the percentage of the population that has completed the primary vaccination series.
+
+<p align="center">
+  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/4372cef7-83af-45d4-849b-45ee639f4e75">
+</p>
+
+The legend given along with the map is interactive. When users place their mouse over any box in the map, the countries corresponding to that category in the map is displayed. The figure below shows the map highlighting all the countries where the percentage of population that has received a booster dose is less than 10, when the mouse is over the red box in the legend.
+
+<p align="center">
+  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/ca301f6b-9903-4b45-9de5-bae03e4cc973">
+</p>
+
+The maps can also be zoomed in and out using the scroll options in the mouse. Zooming in can also be done by doubling clicking on the portion of the map you want to zoom into. Users can also pan the map by clicking and dragging in a specific direction. This allows more mobility within the map, hence making it easier for users to investigate and analyze smaller countries in the map. The figure below shows the map zoomed into United Kingdom.
+
+<p align="center">
+  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/c667b2fa-9eb4-44cc-8ae3-c7cc16303270">
+</p>
+
+### Vaccination Program
+When the ’Vaccination Program’ option in the navigation bar is clicked, the interface changes. The interface displayed can be seen in the figure below:
+
+<p align="center">
+  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/246436db-15ea-4ad2-afa8-463f4f9ef827">
+</p>
+
+A line graph displaying the daily number of Covid-19 vaccination doses administered in the world is displayed. If the user places the mouse at any point inside the graph, the date and the number of vaccinations administered that day is displayed in a pop-up box. This can be seen in the figure below.
+
+<p align="center">
+  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/246436db-15ea-4ad2-afa8-463f4f9ef827">
+</p>
+
+Users can choose to see the graph for Daily Covid-19 vaccinations administered, Cumulative vaccinations administered, Daily number of people receiving a first Covid-19 vaccination dose, Total number of people who received at least one dose of vaccination, Total number of people who finished the initial vaccination protocol and Total Covid-19 boosters administered using a drop down menu right next to the graph. The figure below shows this drop down menu.
 
 
