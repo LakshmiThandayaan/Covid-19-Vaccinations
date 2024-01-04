@@ -132,6 +132,6 @@ The legend for the bar chart is also given right next to the chart. The figure s
 The data sources used for developing the visualizations in the dashboard are given when this option in the navigation bar is clicked.
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/5ecdff77-1990-4a8d-be20-954c48c8cd3e">
 </p>
 
