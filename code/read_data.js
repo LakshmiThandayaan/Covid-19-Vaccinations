@@ -1,7 +1,6 @@
 //This file is used to read the required data sets
 
 //reading the data set for the world map
-
 d3.csv("vaccination-data.csv",function(d){
     const vaccine_data =   {country: d.COUNTRY, code: d.ISO3, fully_vaccinated: d.PERSONS_LAST_DOSE, 
         fully_vaccinated_per100: d.PERSONS_LAST_DOSE_PER100, partly_vaccinated: d.PERSONS_VACCINATED_1PLUS_DOSE, 
