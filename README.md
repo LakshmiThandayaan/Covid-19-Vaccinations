@@ -80,4 +80,15 @@ A line graph displaying the daily number of Covid-19 vaccination doses administe
 
 Users can choose to see the graph for Daily Covid-19 vaccinations administered, Cumulative vaccinations administered, Daily number of people receiving a first Covid-19 vaccination dose, Total number of people who received at least one dose of vaccination, Total number of people who finished the initial vaccination protocol and Total Covid-19 boosters administered using a drop down menu right next to the graph. The figure below shows this drop down menu. The figure below shows this drop down menu.
 
+<p align="center">
+  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/cc6f19c0-cece-4dde-8587-3789079997e4">
+</p>
+
+<p align="center">
+  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/8b8487d6-910d-4751-9494-3f6161253ab4)">
+</p>
+
+<p align="center">
+  <img src="https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/039a9d02-1f05-4a09-ab51-601aee073379">
+</p>
 
