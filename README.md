@@ -16,3 +16,11 @@ doses administered. Users also have the option to compare the vaccination progra
 ## User Guidelines
 
 The dashboard has been designed in the following manner:
+
+![dashboard](https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/16c018e4-fb27-42e3-8696-9b2d5cc63ae9)
+
+Users can navigate the dashboard using the navigation bar. It consist of the clickable options ’Overview’ and ’Vaccination Program’.
+
+![navigation_bar](https://github.com/LakshmiThandayaan/Covid-19-Vaccinations/assets/114150775/d435cec0-a891-4ae3-b38b-6573f48318dc)
+
+
