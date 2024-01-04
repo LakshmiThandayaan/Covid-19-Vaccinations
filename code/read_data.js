@@ -1,7 +1,7 @@
 //This file is used to read the required data sets
 
 //reading the data set for the world map
-d3.csv("vaccination-data.csv",function(d){
+d3.csv("./vaccination-data.csv",function(d){
     const vaccine_data =   {country: d.COUNTRY, code: d.ISO3, fully_vaccinated: d.PERSONS_LAST_DOSE, 
         fully_vaccinated_per100: d.PERSONS_LAST_DOSE_PER100, partly_vaccinated: d.PERSONS_VACCINATED_1PLUS_DOSE, 
         partly_vaccinated_per100: d.PERSONS_VACCINATED_1PLUS_DOSE_PER100, booster: d.PERSONS_BOOSTER_ADD_DOSE,
@@ -17,7 +17,7 @@ d3.csv("vaccination-data.csv",function(d){
 map_options();
 
 //reading the csv file for the line graph and bar chart
-d3.csv("owid-covid-data.csv",function(d){
+d3.csv("./owid-covid-data.csv",function(d){
     const data = {date: d3.timeParse("%Y-%m-%d")(d.date), nonFormatedDate: d.date, location: d.location, new_cases: parseFloat(d.new_cases_smoothed), 
         new_deaths: parseFloat(d.new_deaths_smoothed), total_vaccinations: parseFloat(d.total_vaccinations_per_hundred), new_vaccinations: parseFloat(d.new_vaccinations_smoothed_per_million), 
         total_people_vaccinated: parseFloat(d.people_vaccinated_per_hundred), new_people_vaccinated: parseFloat(d.new_people_vaccinated_smoothed_per_hundred),
